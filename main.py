@@ -3,10 +3,7 @@ import pandas as pd
 from pydub import AudioSegment
 from gtts import gTTS
 
-# pip install pyaudio
-# pip install pydub
-# pip install pandas
-# pip install gTTS
+
 
 
 def textToSpeech(text, filename):
